@@ -34,12 +34,5 @@ Currently learning: Rust
 - PyGame
 - SDL2
 
-### My Setup
-- Editor - VS Code
-- Computer - Asus ROG Zephyrus G14 + M1 Macbook Pro 14"
-- Keyboard - Keychron K2 Wireless
-- Mouse - Logitech G502 Wireless
-- Microphone - Audio-Technica AA2020+
-
 ---
-[![](https://visitcount.itsvg.in/api?id=m1chaelwilliams&icon=0&color=12)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?
