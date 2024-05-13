@@ -33,6 +33,3 @@ Currently learning: Rust
 - MonoGame
 - PyGame
 - SDL2
-
----
-![](https://github-readme-stats.vercel.app/api/top-langs/?
