@@ -1,7 +1,7 @@
 ### About Me:
 Hi! I'm a computer science undergraduate and amateur software developer. I like to make YouTube videos in my spare time aswell!
 
-Currently learning: Rust
+Currently learning: Golang
 
 ### Languages
 - C++
@@ -10,13 +10,15 @@ Currently learning: Rust
 - Python
 - Rust
 - Java
-- Go Lang
+- Golang
+- Lua
 
 ### Web Technologies
 - NodeJS
 - ExpressJS
 - Svelte
 - React
+- NextJS
 - JQuery
 - Sqlite
 - Tailwind
