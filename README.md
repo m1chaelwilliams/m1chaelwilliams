@@ -1,9 +1,16 @@
 ### About Me:
 Hi! I'm a computer science undergraduate and amateur software developer. I like to make YouTube videos in my spare time aswell!
 
-Currently learning: Golang
+Currently learning: Golang + Haskell
+
+### Setup
+Editor: Neovim (no distro)
+Terminal: Wezterm w/ pwsh
+OS: Windows 11 + MacOS
+Devices: Asus ROG G14 Zephyrus + M1 Macbook Pro
 
 ### Languages
+- C
 - C++
 - C#
 - JS/TS
@@ -12,6 +19,7 @@ Currently learning: Golang
 - Java
 - Golang
 - Lua
+- Haskell
 
 ### Web Technologies
 - NodeJS
