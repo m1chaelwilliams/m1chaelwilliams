@@ -4,10 +4,10 @@ Hi! I'm a computer science undergraduate and amateur software developer. I like 
 Currently learning: Golang + Haskell
 
 ### Setup
-Editor: Neovim (no distro)
-Terminal: Wezterm w/ pwsh
-OS: Windows 11 + MacOS
-Devices: Asus ROG G14 Zephyrus + M1 Macbook Pro
+- Editor: Neovim (no distro)
+- Terminal: Wezterm w/ pwsh
+- OS: Windows 11 + MacOS
+- Devices: Asus ROG G14 Zephyrus + M1 Macbook Pro
 
 ### Languages
 - C
