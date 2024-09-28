@@ -24,4 +24,4 @@ Currently learning: Golang + Haskell
 ### I like to make...
 - Desktop Apps
 - Games
-- CLIs and other devloper utilities
+- CLIs and other developer utilities
