@@ -1,12 +1,12 @@
 ### About Me:
-Hi! I'm a computer science undergraduate and amateur software developer. I like to make YouTube videos in my spare time aswell!
+Hi! I'm a compuer science student and junior software engineer. I love to listen to music, make video games, configure my text editor, and learn new programming languages!
 
 Currently learning: Golang + Haskell
 
 ### Setup
 - Editor: Neovim (no distro)
-- Terminal: Wezterm w/ pwsh
-- OS: Windows 11 + MacOS
+- Terminal: Wezterm
+- OS: Windows 11 + MacOS + Ubuntu (w/ i3wm)
 - Devices: Asus ROG G14 Zephyrus + M1 Macbook Pro
 
 ### Languages
@@ -21,25 +21,7 @@ Currently learning: Golang + Haskell
 - Lua
 - Haskell
 
-### Web Technologies
-- NodeJS
-- ExpressJS
-- Svelte
-- React
-- NextJS
-- JQuery
-- Sqlite
-- Tailwind
-
-### Desktop Technologies
-- egui
-- Tkinter
-- ImGUI
-
-### Game/Visual Technologies
-- OpenGL
-- WGPU
-- Raylib
-- MonoGame
-- PyGame
-- SDL2
+### I like to make...
+- Desktop Apps
+- Games
+- CLIs and other devloper utilities
