@@ -1,5 +1,5 @@
 ### About Me:
-Hi! I'm a compuer science student and junior software engineer. I love to listen to music, make video games, configure my text editor, and learn new programming languages!
+Hi! I'm a computer science student and junior software engineer. I love to listen to music, make video games, configure my text editor, and learn new programming languages!
 
 Currently learning: Golang + Haskell
 
