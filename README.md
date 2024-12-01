@@ -1,13 +1,13 @@
 ### About Me:
 Hi! I'm a computer science student and junior software engineer. I love to listen to music, make video games, configure my text editor, and learn new programming languages!
 
-Currently learning: Golang + Haskell
+Currently Building: 3D Engine w/ WGPU
 
 ### Setup
-- Editor: Neovim (no distro)
-- Terminal: Wezterm
-- OS: Windows 11 + MacOS + Ubuntu (w/ i3wm)
-- Devices: Asus ROG G14 Zephyrus + M1 Macbook Pro
+- Editor: nvim
+- Terminal: kitty
+- OS: Mac OSX
+- Window Management: yabai + skhd
 
 ### Languages
 - C
