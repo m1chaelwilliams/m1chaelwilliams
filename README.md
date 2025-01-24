@@ -1,15 +1,15 @@
-### About Me:
-Hi! I'm a computer science student and junior software engineer. I love to listen to music, make video games, configure my text editor, and learn new programming languages!
+## About Me:
+Hi! I'm a computer science student and junior software engineer. I love to listen to music, make video games and configure my text editor!
 
-Currently Building: 3D Engine w/ WGPU
+Currently Building: 3D Engine with zig and sokol
 
-### Setup
-- Editor: nvim
-- Terminal: kitty
-- OS: Mac OSX
-- Window Management: yabai + skhd
+## Talk to me about...
+- NeoVim
+- New programming languages
+- game development
+- Low level design
 
-### Languages
+One of my favorite hobbies is leaarning new programming languages. Here is a list of the ones I know (in no particular order):
 - C
 - C++
 - C#
@@ -20,8 +20,10 @@ Currently Building: 3D Engine w/ WGPU
 - Golang
 - Lua
 - Haskell
+- Zig
 
-### I like to make...
-- Desktop Apps
+## What I make for fun...
 - Games
-- CLIs and other developer utilities
+- Graphical Engines
+- Developer Tools
+- Simulations
