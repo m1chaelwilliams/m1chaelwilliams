@@ -9,7 +9,7 @@ Currently Building: 3D Engine with zig and sokol
 - game development
 - Low level design
 
-One of my favorite hobbies is leaarning new programming languages. Here is a list of the ones I know (in no particular order):
+One of my favorite hobbies is learning new programming languages. Here is a list of the ones I know (in no particular order):
 - C
 - C++
 - C#
